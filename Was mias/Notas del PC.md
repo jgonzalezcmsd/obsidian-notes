@@ -4,8 +4,7 @@
 
  - 1 bloque de programacion 
  -  reflexion del dia 
- -  mini presentacion sobre lo estudiado (mapa conceptual)
- -  Avanzar en proyecto personal
+ -  reflexiones que estan en el cuaderno 
 ## Encodear video para YT 
 
 ```
